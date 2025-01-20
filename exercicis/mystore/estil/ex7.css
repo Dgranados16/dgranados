@@ -1,0 +1,36 @@
+a {
+color:rgb(0, 0, 0);
+}
+/* com referenciar a un identificador */
+#tit {
+color: rgb(255, 0, 102);
+}    
+article.cotxe {
+background-color: tomato;
+color: white;
+border: 2px solid black;
+margin: 20px;
+padding: 20px;
+}
+#menu-principal{
+background-color: rgb(194, 192, 255);
+color: rgb(0, 0, 0);
+border: 2px solid rgb(0, 0, 0);
+margin: 20px;
+padding: 20px;
+text-align: center;
+}
+
+ul, li {
+padding: 0,0;
+margin: 2px ,2px;
+display: inline-block;
+text-align: center;
+
+}
+header h1{
+    text-align: center;
+}
+header h2{
+    text-align: center;
+}
